@@ -203,7 +203,7 @@ Due to client confidentiality and security considerations, the source code is no
 
 ## Developer
 
-**Auric Tesla**
+**jvecina.dev**
 
 - Full-Stack Developer
 - UI/UX Designer
